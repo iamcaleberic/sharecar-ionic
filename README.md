@@ -1,13 +1,13 @@
 Sharecar
 =====================
 
-A project for Ionic that optionally supports using custom SCSS.
+A  Ionic project that optionally supports using custom SCSS.
 
 ## Using this project
 
 
 ```bash
-$ clone
+$ clone from github
 ```
 
 Then run: 
